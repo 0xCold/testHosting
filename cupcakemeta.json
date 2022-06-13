@@ -1,0 +1,29 @@
+{
+  "name": "Cupcake",
+  "symbol": "CC",
+  "description": "Baked at www.cupcake.com",
+  "image": "https://arweave.net/41y84ItzrfY54soviPh8e4M8H8FrIEgizJIlCeoqMiA",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "bakery",
+      "value": "ryan"
+    },
+    {
+      "trait_type": "frosting",
+      "value": "vanilla"
+    },
+    {
+      "trait_type": "sprinkles",
+      "value": "strawberry"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "AbfERSsdtcUtWeCeLqKp1jYAcCq6GVoULBWFwZmiioDD",
+        "share": 100
+      }
+    ]
+  }
+}
